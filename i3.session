@@ -1,0 +1,7 @@
+[GNOME Session]
+Name=i3
+RequiredComponents=gnome-settings-daemon;
+RequiredProviders=windowmanager;panel;
+DefaultProvider-windowmanager=i3
+DefaultProvider-panel=compiz
+DesktopName=i3

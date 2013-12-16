@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=GNOME i3
+Comment=This session logs you into GNOME with the i3 window manager
+Exec=gnome-session --session=i3
+Icon=
+Type=XSession

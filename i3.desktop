@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=i3
+Exec=i3
+NoDisplay=true
+# autostart phase
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+# name we put on the WM spec check window
+X-GNOME-WMName=i3

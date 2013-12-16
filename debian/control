@@ -1,0 +1,14 @@
+Source: i3-wm-gnome-session
+Section: x11
+Priority: extra
+Maintainer: Tommie Gannert <tommie@gannert.se>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: http://go/i3
+
+Package: i3-wm-gnome-session
+Architecture: all
+Depends: ${misc:Depends}, i3-wm
+Description: Separate GNOME session using the i3 window manager.
+ This allows you to easily switch between i3 and the default window manager
+ within a GNOME display manager.
